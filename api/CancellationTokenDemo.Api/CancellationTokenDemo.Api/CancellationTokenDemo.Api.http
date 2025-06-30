@@ -1,0 +1,6 @@
+@CancellationTokenDemo_HostAddress = http://localhost:5056
+
+GET {{CancellationTokenDemo_HostAddress}}/month-report/
+Accept: application/json
+
+###
